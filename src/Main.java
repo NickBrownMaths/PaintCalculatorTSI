@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int walls = 4;
-        double wall_sa = 10;
+        double wall_sa = 11;
         double window_sa = 5;
         double ceiling_sa = 12;
 
